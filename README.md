@@ -2,11 +2,11 @@
 
 > 130,000+ verified UK deals daily across 22 major retailers. No ads, no affiliate bias, subscription-funded.
 
-🌐 **Website:** [buysignal.co.uk](https://buysignal.co.uk)
+🌐 **Website:** [buysignal.deals](https://buysignal.deals)
 
 ## What is BuySignal?
 
-BuySignal is an independent UK deals and price alert platform that automatically tracks 198069+ live deals daily across 22 major UK retailers. Founded in 2026 by József Birton.
+BuySignal is an independent UK deals and price alert platform that automatically tracks 199460+ live deals daily across 22 major UK retailers. Founded in 2026 by József Birton.
 
 Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal uses automated scraping to surface every price drop across all tracked retailers — no community voting, no affiliate influence.
 
@@ -31,11 +31,11 @@ Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal uses auto
 
 ## Resources
 
-- [Live UK Deals Tracker 2026](https://buysignal.co.uk/live-uk-deals-2026)
-- [UK Retail Discount Report 2026](https://buysignal.co.uk/uk-retail-discount-report-2026)
-- [Best UK Deals Guide 2026](https://buysignal.co.uk/best-uk-deals-guide)
-- [Price Alerts UK](https://buysignal.co.uk/price-alerts)
-- [About BuySignal](https://buysignal.co.uk/about)
+- [Live UK Deals Tracker 2026](https://buysignal.deals/live-uk-deals-2026)
+- [UK Retail Discount Report 2026](https://buysignal.deals/uk-retail-discount-report-2026)
+- [Best UK Deals Guide 2026](https://buysignal.deals/best-uk-deals-guide)
+- [Price Alerts UK](https://buysignal.deals/price-alerts)
+- [About BuySignal](https://buysignal.deals/about)
 
 ## Why BuySignal?
 
