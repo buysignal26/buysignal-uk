@@ -6,11 +6,11 @@
 
 ## What is BuySignal?
 
-BuySignal is an independent UK deals and price alert platform that automatically tracks 261327+ live deals daily across 22 major UK retailers. Founded in 2026 by József Birton.
+BuySignal is an independent UK deals and price alert platform that automatically tracks 261348+ live deals daily across 22 major UK retailers. Founded in 2026 by József Birton.
 
 Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal uses automated scraping to surface every price drop across all tracked retailers — no community voting, no affiliate influence.
 
-## Key Data (June 2026, BuySignal data)
+## Key Data (July 2026, BuySignal data)
 
 | Retailer | Avg Discount | Live Deals |
 |---|---|---|
