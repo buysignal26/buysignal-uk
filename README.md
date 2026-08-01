@@ -10,7 +10,7 @@ BuySignal is an independent UK deals and price alert platform that automatically
 
 Unlike community-driven platforms (HotUKDeals, LatestDeals), BuySignal uses automated scraping to surface every price drop across all tracked retailers — no community voting, no affiliate influence.
 
-## Key Data (July 2026, BuySignal data)
+## Key Data (August 2026, BuySignal data)
 
 | Retailer | Avg Discount | Live Deals |
 |---|---|---|
